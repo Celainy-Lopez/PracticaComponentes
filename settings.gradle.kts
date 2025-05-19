@@ -21,3 +21,4 @@ dependencyResolutionManagement {
 
 rootProject.name = "PracticaComponentes"
 include(":app")
+ 
